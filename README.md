@@ -8,43 +8,44 @@ To draw the UML diagram for Railway Management System.
 
 Create the following diagrams in StarUML:
 
-◉ Use Case Diagram
+1. Use Case Diagram
 
-◉ Class Diagram
+2. Class Diagram
 
-◉ Activity Diagram
+3. Activity Diagram
 
-◉ Package Diagram
+4. Package Diagram
 
-◉ Communication Diagram
+5. Communication Diagram
 
-◉ Sequence Diagram
+6. Sequence Diagram
 
 # DIAGRAMS:
 
-◉ Use Case Diagram:
+## Use Case Diagram:
 
-![image](https://github.com/user-attachments/assets/f3b1e0ed-2184-426a-ae84-6fd63983d10f)
+![usecase](https://github.com/user-attachments/assets/b54dd18d-50fb-4299-ac24-8f9233c1ab57)
 
-◉ Class Diagram:
+## Class Diagram:
+![class](https://github.com/user-attachments/assets/fc4679b2-6e23-425e-a355-a01db300a43c)
 
-![image](https://github.com/user-attachments/assets/a21b9b92-ec0f-4d4c-9945-991deb038118)
 
-◉ Activity Diagram:
+## Activity Diagram:
+![activity](https://github.com/user-attachments/assets/355788c8-aaa2-436c-943f-9bd9b3d86753)
 
-![image](https://github.com/user-attachments/assets/decbd483-9a1b-4279-a004-3787f659a111)
 
-◉ Package Diagram:
+## Package Diagram:
 
-![image](https://github.com/user-attachments/assets/5e84b30d-c9f9-473b-92b7-83a78c334787)
+![package](https://github.com/user-attachments/assets/6cd4dbcf-a123-4854-bd64-dfa83b3c2e29)
 
-◉ Communication Diagram:
+## Communication Diagram:
+![CommunicationDiagram1](https://github.com/user-attachments/assets/53475ec5-ffdc-4cef-9185-13f53b8a6a47)
 
-![image](https://github.com/user-attachments/assets/b555a174-0b46-4333-beb1-67f91d5997c7)
 
-◉ Sequence Diagram:
+## Sequence Diagram:
+![SequenceDiagram1](https://github.com/user-attachments/assets/7fb51d2b-f7b7-4f37-a985-8210ee1e79ce)
 
-![image](https://github.com/user-attachments/assets/489a7b8c-023a-4330-aa43-d01c8bb93d7e)
+
 
 # RESULT:
 
